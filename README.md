@@ -8,3 +8,4 @@
 </figure>
 
 1. add concurrent features.
+1. add large feature with 2 or more members.
